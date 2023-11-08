@@ -1,5 +1,7 @@
 # Face_scan_UPI
 
+*read in code mode for better understanding
+
 make sure you have following python libraries downloaded
 pip intall opencv-python
 pip install face_recognition
